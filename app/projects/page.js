@@ -8,7 +8,7 @@ const projects = [
 
 {
 id:1,
-title:"Agro Smart AI",
+title:"Website to manage bookings and increase customer conversions",
 description:"Intelligent Farming Advisory System powered by Artificial Intelligence & Cloud Computing. Get smart crop recommendations, weather alerts, and precision agriculture insights.",
 tech:["React","Python","Flask","Machine Learning","Cloud"],
 vercel:"https://pearlsithub-agrosmart-ai.vercel.app",
@@ -18,7 +18,7 @@ github:"https://github.com/pearlsithubitservices/agro-smart-ai"
 
 {
 id:2,
-title:"AI Fraud Detection System",
+title:"System that helps businesses detect and prevent fraud",
 description:"Machine learning powered system that detects fraudulent financial transactions using a trained classification model.",
 tech:["React","Flask","Python","Scikit-Learn","Vite"],
 vercel:"https://pearlsithub-fraud-detection-using-a.vercel.app",
