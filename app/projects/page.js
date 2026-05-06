@@ -20,19 +20,19 @@ github:"https://github.com/pearlsithubitservices/agro-smart-ai"
 id:2,
 title:"System that helps businesses detect and prevent fraud",
 description:"Machine learning powered system that detects fraudulent financial transactions using a trained classification model.",
-tech:["React","Flask","Python","Scikit-Learn","Vite"],
+// tech:["React","Flask","Python","Scikit-Learn","Vite"],
 vercel:"https://pearlsithub-fraud-detection-using-a.vercel.app",
-render:"https://your-render-backend-url.onrender.com",
+// render:"https://your-render-backend-url.onrender.com",
 github:"https://github.com/pearlsithubitservices/pearlsithub_fraud_detection_using_ai"
 },
 
 {
 id:3,
-title:"Guardian Animal Aid",
-description:"Animal welfare platform for rescuing, reporting and supporting stray animals",
-tech:["Next.js","Supabase","Vercel"],
+title:"Platform that helps manage animal rescue and care services",
+description:"Designed to streamline rescue tracking, care management, and coordination",
+// tech:["Next.js","Supabase","Vercel"],
 vercel:"https://pearlsithub-animalwellfare.vercel.app/",
-render:"",
+// render:"",
 github:"https://github.com/pearlsithubitservices/pearlsithub-Animalwellfare"
 },
 
